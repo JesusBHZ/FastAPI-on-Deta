@@ -1,0 +1,1 @@
+{"id":"69640674-ac00-46f9-b695-bcd295fa6b82","space":40349,"runtime":"python3.9","name":"detaAPI","path":"z0kuep","project":"b0l9wzou","account":"144798365827","region":"us-east-1","deps":["fastapi","uvicorn","pydantic[email]","requests","flask","deta","pydantic"],"envs":null,"public":true,"log_level":"debug","cron":""}
