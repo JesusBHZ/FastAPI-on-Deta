@@ -1,7 +1,7 @@
 # FastAPI-on-Deta
 Despliegue de CRUD con FastApi en Deta 
 
-## Requerientos
+## Requerimientos
 - fastapi
 - uvicorn
 - pydantic[email]
